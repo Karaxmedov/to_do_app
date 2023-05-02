@@ -1,0 +1,13 @@
+*.cpp linguist-detectable=false 
+*.h linguist-detectable=false
+*.cmake linguist-detectable=false
+*.html linguist-detectable=false 
+*.c linguist-detectable=false
+*.cc  linguist-detectable=false
+*.txt linguist-detectable=false
+*.gradle linguist-detectable=false
+*.txt linguist-detectable=false
+*.kt linguist-detectable=false
+*.swift linguist-detectable=false
+*. linguist-detectable=false
+*.dart linguist-detectable=true
